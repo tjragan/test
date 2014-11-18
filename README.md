@@ -6,3 +6,7 @@ standard.
 
 Nothing in here is the standard, and should **NEVER** be used by *anyone*!
 (including us)
+I **SURE** hope we cna get *this* stuff renamed
+NEXT STEPS
+==========
+none
