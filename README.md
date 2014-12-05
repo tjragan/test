@@ -11,4 +11,5 @@ NEXT STEPS
 ==========  
 ~~none~~
 
-Branching
+Branching  
+origin vs upstream
