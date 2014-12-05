@@ -6,7 +6,8 @@ standard.
 
 Nothing in here is the standard, and should **NEVER** be used by *anyone*!
 (including us)  
-oI **SURE** hope we can get *this* stuff renamed NEXT STEPS  
+I **SURE** hope we can get *this* stuff renamed  
+NEXT STEPS  
 ==========  
 ~~none~~
 
